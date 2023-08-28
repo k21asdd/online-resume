@@ -1,6 +1,6 @@
 basic:
   name: Chang Yuan Chih                      # name
-  title: Software engineer           # job title
+  title:            # job title
   avatar:
     show: false                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
@@ -12,7 +12,7 @@ contact:
   phone: +886-910-122-421 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website:
 
-  gender: he                 # gender or pronoun
+  gender:                 # gender or pronoun
   birthday: 1990.02.28               # birthday
   nationality:             # nationality
   visa:                    # passport visa
@@ -128,7 +128,7 @@ experience:
   show: true
   order: 3
   title: Experiences
-  description:
+  description: |
     Software testing engineer in a endpoint behavior protection engine.
 
     Software developing & testing engineer in endpoint behavior sensor.
