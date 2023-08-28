@@ -128,13 +128,7 @@ experience:
   show: true
   order: 3
   title: Experiences
-  description: |
-    Software testing engineer in a endpoint behavior protection engine.
-
-    Software developing & testing engineer in endpoint behavior sensor.
-
-    Software team leader in endpoint behavior sensor.
-
+  description:
   items:
     - company: Trend Micro Inc.
       link: 'https://www.trendmicro.com/en_us/business.html'
