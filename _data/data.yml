@@ -128,7 +128,7 @@ experience:
   show: true
   order: 3
   title: Experiences
-  description:
+  description: 
   items:
     - company: Trend Micro Inc.
       link: 'https://www.trendmicro.com/en_us/business.html'
