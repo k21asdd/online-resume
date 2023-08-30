@@ -118,7 +118,7 @@ profile:
   order: 2
   title: Profile
   description: |
-    Experienced software engineer with a background in automation testing and system optimization.
+    Software engineer with over 8 years of experience in automation testing.
     
     Committed to refining software quality and efficiency. 
 
@@ -132,17 +132,15 @@ experience:
   items:
     - company: Trend Micro Inc.
       link: 'https://www.trendmicro.com/en_us/business.html'
-      date: 2015.12 - 2020.04
-      role: Software testing engineer
+      date: 2021.10 - present
+      role: Software engineer leader
       location: Taipei
       description: |
-        + Utilized Perl to maintain and enhance the automation testing framework
-        + Developed comprehensive testing using Perl, covering functional, error, performance, and stress testing
-        + Researched and implemented malware behavior to assess engine functionality using C++ and Python
-        + Created and maintained malware behavior collection service using Python
-        + Constructed virtualized OS environments in C++ to expand testing coverage
-        + Established JavaScript pattern testing and CI using TypeScript, Python, and Jenkins
-        + Strengthened automation testing infrastructure across 8 servers with 60 virtual machines using Python and Perl
+        + Managed and led a team of 8 members in the development and operation of endpoint sensor
+        + Conducted walkthroughs with project stakeholders to establish expectations and baselines
+        + Collaborated with product and driver teams to establish driver safety net and a rescue channel
+        + Developed potential BSoD telemetry for sensor, resulting in a 23% reduction in BSoD incidents
+        + Collaborated with backend teams, contributing to an overall company cost reduction of 5%
 
     - company: Trend Micro Inc.
       link: 'https://www.trendmicro.com/en_us/business.html'
@@ -154,18 +152,20 @@ experience:
         + Created an endpoint sensor status alert system using Python and Elasticsearch
         + Enhanced testing efficiency by implementing parallel automation testing, cutting testing time by 50% using Python and Jenkins
         + Developed solutions and conducted tests for MITRE ATT&CK evaluations, utilizing a combination of C++ and TypeScript
-    
+
     - company: Trend Micro Inc.
       link: 'https://www.trendmicro.com/en_us/business.html'
-      date: 2021.10 - present
-      role: Software engineer leader
+      date: 2015.12 - 2020.04
+      role: Software testing engineer
       location: Taipei
       description: |
-        + Managed and led a team of 8 members in the development and operation of endpoint sensor
-        + Conducted walkthroughs with project stakeholders to establish expectations and baselines
-        + Collaborated with product and driver teams to establish driver safety net and a rescue channel
-        + Developed potential BSoD telemetry for sensor, resulting in a 23% reduction in BSoD incidents
-        + Collaborated with backend teams, contributing to an overall company cost reduction of 5%
+        + Utilized Perl to maintain and enhance the automation testing framework
+        + Developed comprehensive testing using Perl, covering functional, error, performance, and stress testing
+        + Researched and implemented malware behavior to assess engine functionality using C++ and Python
+        + Implemented and maintained sandbox service using Python
+        + Constructed virtualized OS environments in C++ to expand testing coverage
+        + Established JavaScript pattern testing and CI using TypeScript, Python, and Jenkins
+        + Strengthened automation testing infrastructure across 8 servers with 60 virtual machines using Python and Perl
 
 education:
   show: true
@@ -179,20 +179,14 @@ education:
       date: 2012/09 - 2014/06
       major: Computer Science and Information Engineering
       degree: Master
-      description: |
-        Additional information for this institution.
-        + First
-        + Second
+      description: 
 
     - institution: Tatung University
       link:
       date: 2008/09 - 2012/06
       major: Computer Science
       degree: Bachelor
-      description: |
-        Additional information for this institution.
-        + First
-        + Second
+      description: 
 
 language:
   show: false
