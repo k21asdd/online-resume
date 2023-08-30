@@ -114,7 +114,7 @@ skill:
   groups:
 
 profile:
-  show: true
+  show: false
   order: 2
   title: Profile
   description: |
