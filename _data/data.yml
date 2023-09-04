@@ -160,7 +160,7 @@ experience:
       location: Taipei
       description: |
         + Utilized Perl to maintain and enhance the automation testing framework
-        + Developed comprehensive testing using Perl, covering functional, error, performance, and stress testing
+        + Developed comprehensive testing using Python and Perl, covering functional, error, performance, and stress testing
         + Researched and implemented malware behavior to assess engine functionality using C++ and Python
         + Implemented and maintained sandbox service using Python
         + Constructed virtualized OS environments in C++ to expand testing coverage
