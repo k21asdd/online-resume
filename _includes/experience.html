@@ -22,11 +22,6 @@
         <span>{{ experience.location }}</span>
       </div>
     </div>
-    <div class="row">
-      <div class="date">
-        <span>{{ experience.date }}</span>
-      </div>
-    </div>
     {%- endif %}
     {%- if experience.items %}
     <div class="items">
@@ -38,7 +33,6 @@
             <span>{{ item.role }}</span>
           </div>
           <div class="date">
-            <i class="fa-solid fa-location-dot"></i>
             <span>{{ item.date }}</span>
           </div>
         </div>
