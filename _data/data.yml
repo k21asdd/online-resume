@@ -129,6 +129,7 @@ experience:
   order: 3
   title: Experiences
   description: 
+  company: Trend Micro Inc.
   items:
     - company: Trend Micro Inc.
       link: 'https://www.trendmicro.com/en_us/business.html'
@@ -178,14 +179,14 @@ education:
       link: 
       date: 2012/09 - 2014/06
       major: Computer Science and Information Engineering
-      degree: Master
+      degree: Master of science
       description: 
 
     - institution: Tatung University
       link:
       date: 2008/09 - 2012/06
       major: Computer Science
-      degree: Bachelor
+      degree: Bachelor of science
       description: 
 
 language:

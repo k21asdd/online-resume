@@ -12,24 +12,22 @@
       {{ experience.description | markdownify }}
     </div>
     {%- endif %}
-
+    {%- if experience.company %}
+    <div class="row">
+      <div class="company">
+        <span>{{ item.company }}</span>
+      </div>
+      <div class="date">
+        <span>{{ item.date }}</span>
+      </div>
+    </div>
+    {%- endif %}
     {%- if experience.items %}
     <div class="items">
       {%- for item in experience.items %}
       <div class="item">
-
         {%- if item.company %}
         <div class="row">
-          <div class="company">
-            {%- if item.link %}
-            <a href="{{ item.link }}">{{ item.company }}</a>
-            {%- else %}
-            <span>{{ item.company }}</span>
-            {%- endif %}
-            {%- if item.tags %}
-            <small>[{{ item.tags }}]</small>
-            {%- endif %}
-          </div>
           <div class="date">
             <span>{{ item.date }}</span>
           </div>
