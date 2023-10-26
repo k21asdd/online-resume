@@ -17,6 +17,15 @@
       <div class="company">
         <span>{{ experience.company }}</span>
       </div>
+      <div class="location">
+        <i class="fa-solid fa-location-dot"></i>
+        <span>{{ experience.location }}</span>
+      </div>
+    </div>
+    <div class="row">
+      <div class="date">
+        <span>{{ experience.date }}</span>
+      </div>
     </div>
     {%- endif %}
     {%- if experience.items %}
@@ -25,18 +34,12 @@
       <div class="item">
         {%- if item.company %}
         <div class="row">
-          <div class="date">
-            <span>{{ item.date }}</span>
-          </div>
-        </div>
-
-        <div class="row">
           <div class="role">
             <span>{{ item.role }}</span>
           </div>
-          <div class="location">
+          <div class="date">
             <i class="fa-solid fa-location-dot"></i>
-            <span>{{ item.location }}</span>
+            <span>{{ item.date }}</span>
           </div>
         </div>
 
