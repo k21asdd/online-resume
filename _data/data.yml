@@ -196,7 +196,7 @@ language:
       level: Professional
 
 interest:
-  show: true
+  show: false
   order: 12
   title: Interests
   description: |
