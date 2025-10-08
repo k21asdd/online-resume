@@ -79,37 +79,33 @@ contact:
   strava:                  # useid             | https://www.strava.com/athletes/userid
 
 skill:
-  show: false
+  show: true
   order: 1
   title: Skills
-  description: |
-    The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
-
-    The skills section can include both hard skills and soft skills. Hard skills are specific technical abilities or knowledge related to a particular job or industry, such as proficiency in programming languages or experience with certain software programs. Soft skills are more general personal traits and abilities, such as communication skills, leadership, problem-solving, or teamwork.
-
-    When crafting your skills section, it's important to tailor it to the specific job you are applying for, and only include skills that are relevant to the position. This can help catch the attention of the hiring manager and demonstrate that you have the qualifications necessary to succeed in the role.
-
-    There are multiple ways to present your skills here. One way is to show them in a rating format. Another way is to group them together. Alternatively, you can use markdown to format it in a way that you prefer.
-
+  
   items:
-    - name: Skill A
+    - name: Python
       level: 5
-    - name: Skill B
+    - name: C++
       level: 4
-    - name: Skill C
+    - name: JavaScript
       level: 3
-    - name: Skill D
-      level: 4
-    - name: Skill E
+    - name: TypeScrip
       level: 3
-    - name: Skill F
-      level: 1
-    - name: Skill G
-      level: 4
-    - name: Skill H
-      level: 4
-    - name: Skill I
+    - name: Jenkins
       level: 3
+    - name: GitHub Actions
+      level: 3
+    - name: Software Testing
+      level: 5
+    - name: Windows Attack Technique
+      level: 4
+    - name: Windows OS
+      level: 3
+    - name: Scrum
+      level: 2
+    - name: Management
+      level: 2
 
   groups:
 
@@ -143,7 +139,11 @@ experience:
         + Conducted walkthroughs with project stakeholders to establish expectations and baselines
         + Collaborated with product and driver teams to establish driver safety net and a rescue channel
         + Developed potential BSoD telemetry for sensor, resulting in a 23% reduction in BSoD incidents
-        + Collaborated with backend teams, contributing to an overall company cost reduction of 5%
+        + Collaborated with backend teams to create endpoint telemetry reduction system.
+          Contributing to an overall company cost saving of 10%.
+        + Developed adaptive system to reduce performance impact on endpoint machine.
+        + Adopting AI tool to increase efficiency of development and operation
+        + Collaborated with data expert and backend teams for malware detection powered by GAI
 
     - company: Trend Micro Inc.
       link: 'https://www.trendmicro.com/en_us/business.html'
@@ -152,8 +152,9 @@ experience:
       location: Taipei
       description: |
         + Designed and constructed an automation testing framework integrated with a CI pipeline using Python and Jenkins
-        + Created an endpoint sensor status alert system using Python and Elasticsearch
-        + Enhanced testing efficiency by implementing parallel automation testing, cutting testing time by 50% using Python and Jenkins
+        + Design an alert system which monitor real world engine status using Python and Elasticsearch
+        + Enhanced testing efficiency by implementing parallel automation testing
+          Cutting testing time by 50% using Python and Jenkins.
         + Developed solutions and conducted tests for MITRE ATT&CK evaluations, utilizing a combination of C++ and TypeScript
 
     - company: Trend Micro Inc.
@@ -162,13 +163,13 @@ experience:
       role: Software testing engineer
       location: Taipei
       description: |
-        + Utilized Perl to maintain and enhance the automation testing framework
+        + Hook engine called system API and constructed virtualized OS environments in C++ to expand testing coverage
+        + Established CI and testing framework for embbedded JavaScript engine (google V8) by TypeScript, Python, and Jenkins
+        + Strengthened automation testing infrastructure across 8 servers with 60 virtual machines using Python and Perl
+        + Evaluate malware detection coverage and update pattern to increase coverage.
         + Developed comprehensive testing using Python and Perl, covering functional, error, performance, and stress testing
         + Researched and implemented malware behavior to assess engine functionality using C++ and Python
         + Implemented and maintained sandbox service using Python
-        + Constructed virtualized OS environments in C++ to expand testing coverage
-        + Established JavaScript pattern testing and CI using TypeScript, Python, and Jenkins
-        + Strengthened automation testing infrastructure across 8 servers with 60 virtual machines using Python and Perl
 
 education:
   show: true
