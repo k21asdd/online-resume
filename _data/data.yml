@@ -78,34 +78,6 @@ contact:
   goodreads:               # username          | https://www.goodreads.com/user/show/username
   strava:                  # useid             | https://www.strava.com/athletes/userid
 
-skill:
-  show: true
-  order: 1
-  title: Skills
-  items:
-    - name: Python
-      level: 5
-    - name: Software Testing
-      level: 5
-    - name: C++
-      level: 4
-    - name: Windows Attack Technique
-      level: 4
-    - name: JavaScript
-      level: 3
-    - name: TypeScrip
-      level: 3
-    - name: Jenkins
-      level: 3
-    - name: GitHub Actions
-      level: 3
-    - name: Windows OS
-      level: 3
-    - name: Scrum
-      level: 2
-    - name: Management
-      level: 2
-
   groups:
 
 profile:
@@ -191,6 +163,23 @@ education:
       degree: Bachelor of science
       description: 
 
+skill:
+  show: true
+  order: 6
+  title: Skills
+  items:
+    - name: Python
+    - name: Software Testing
+    - name: C++
+    - name: Windows Attack Technique
+    - name: JavaScript
+    - name: TypeScrip
+    - name: Jenkins
+    - name: GitHub Actions
+    - name: Windows OS
+    - name: Scrum
+    - name: Management
+
 language:
   show: false
   order: 11
@@ -207,7 +196,7 @@ language:
       level: Professional
 
 interest:
-  show: false
+  show: true
   order: 12
   title: Interests
   description: |
