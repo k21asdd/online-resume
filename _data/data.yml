@@ -82,11 +82,14 @@ skill:
   show: true
   order: 1
   title: Skills
-  
   items:
     - name: Python
       level: 5
+    - name: Software Testing
+      level: 5
     - name: C++
+      level: 4
+    - name: Windows Attack Technique
       level: 4
     - name: JavaScript
       level: 3
@@ -96,10 +99,6 @@ skill:
       level: 3
     - name: GitHub Actions
       level: 3
-    - name: Software Testing
-      level: 5
-    - name: Windows Attack Technique
-      level: 4
     - name: Windows OS
       level: 3
     - name: Scrum
