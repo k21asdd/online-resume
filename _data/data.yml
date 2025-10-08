@@ -110,7 +110,7 @@ experience:
         + Conducted walkthroughs with project stakeholders to establish expectations and baselines
         + Collaborated with product and driver teams to establish driver safety net and a rescue channel
         + Developed potential BSoD telemetry for sensor, resulting in a 23% reduction in BSoD incidents
-        + Collaborated with backend teams to create endpoint telemetry reduction system.
+        + Collaborated with backend teams to create endpoint telemetry reduction system.\n
           Contributing to an overall company cost saving of 10%.
         + Developed adaptive system to reduce performance impact on endpoint machine.
         + Adopted AI tool to increase efficiency of development and operation
@@ -124,7 +124,7 @@ experience:
       description: |
         + Designed and constructed an automation testing framework integrated with a CI pipeline using Python and Jenkins
         + Developed an alert system which monitor real world engine status using Python and Elasticsearch
-        + Enhanced testing efficiency by implementing parallel automation testing
+        + Enhanced testing efficiency by implementing parallel automation testing.\n
           Cutting testing time by 50% using Python and Jenkins.
         + Developed solutions and conducted tests for MITRE ATT&CK evaluations, utilizing a combination of C++ and TypeScript
 
