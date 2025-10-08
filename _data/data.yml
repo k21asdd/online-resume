@@ -113,8 +113,8 @@ experience:
         + Collaborated with backend teams to create endpoint telemetry reduction system.
           Contributing to an overall company cost saving of 10%.
         + Developed adaptive system to reduce performance impact on endpoint machine.
-        + Adopting AI tool to increase efficiency of development and operation
-        + Collaborated with data expert and backend teams for malware detection powered by GAI
+        + Adopted AI tool to increase efficiency of development and operation
+        + Collaborated with data expert and backend teams for malware detection powered by generative AI
 
     - company: Trend Micro Inc.
       link: 'https://www.trendmicro.com/en_us/business.html'
@@ -123,7 +123,7 @@ experience:
       location: Taipei
       description: |
         + Designed and constructed an automation testing framework integrated with a CI pipeline using Python and Jenkins
-        + Design an alert system which monitor real world engine status using Python and Elasticsearch
+        + Developed an alert system which monitor real world engine status using Python and Elasticsearch
         + Enhanced testing efficiency by implementing parallel automation testing
           Cutting testing time by 50% using Python and Jenkins.
         + Developed solutions and conducted tests for MITRE ATT&CK evaluations, utilizing a combination of C++ and TypeScript
